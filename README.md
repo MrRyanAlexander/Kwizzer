@@ -24,5 +24,5 @@ I have provided more details in comments of Kwizzer.js
 
 **Intially I just wanted to rebuild the quiz I started last year
 
-https://github.com/MrRyanAlexander/Quiz
+https://github.com/theandromus/Quiz
 
