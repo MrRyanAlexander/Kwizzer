@@ -2,6 +2,9 @@
 
 A modern rewrite of the classic Kwizzer app, now featuring a sleek UI, smooth animations, and TypeScript support. This version represents a complete modernization of the [original Kwizzer](https://github.com/MrRyanAlexander/Kwizzer) project, rebuilt from the ground up using current best practices and modern web technologies.
 
+## View it on the web (this link may stop working)
+https://fastidious-smakager-2daffb.netlify.app/
+
 ## About
 
 Kwizzer was originally built using Parse as its backend service. After Parse was acquired by Facebook and subsequently shut down (with the core being open-sourced), the original version became outdated. This new version has been completely refactored using [Bolt.new](https://bolt.new), embracing modern web development practices and technologies.
